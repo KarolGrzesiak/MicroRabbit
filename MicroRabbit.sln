@@ -1,5 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{49EDCC45-CE96-442B-8BB7-B07663E896B4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infra.Bus", "Infra.Bus", "{95DF0379-2176-4F01-9C37-D57ACD870FEC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infra.IoC", "Infra.IoC", "{2D269D27-5EE5-49D7-91E1-24646DF1C2B9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Microservices", "Microservices", "{8EEE2EC5-65E9-429C-9B9E-72CE359C93AD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{FFF0E203-B2C7-43BE-8AD9-3840114C22B8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
